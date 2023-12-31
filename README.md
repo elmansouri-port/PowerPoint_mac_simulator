@@ -1,4 +1,6 @@
 # macOS Launcher PowerPoint Simulation
+
+made by Youssef EL MANSOURI
 ![Logo](https://cdn.mos.cms.futurecdn.net/Ta6puMb9jUvdbFRhiVJcmV-650-80.jpg.webp)
 ## Overview
 
@@ -14,7 +16,7 @@ This small project is a PowerPoint simulation designed to mimic the macOS launch
 
 1. Clone or download the project repository.
    ```bash
-   git clone https://github.com/your-username/macos-launcher-simulation.git
+   git clone https://github.com/elmansouri-port/PowerPoint_mac_simulator.git
 Open the PowerPoint file (macos_launcher_simulation.pptx) using Microsoft PowerPoint or compatible software.
 
 Explore the slides to understand the UI/UX design elements and interactions.
@@ -30,12 +32,6 @@ Understanding macOS launcher UI elements.
 Practicing design consistency and aesthetics.
 Exploring user interactions and animations.
 Contributing
-Feel free to contribute to this project by forking and submitting a pull request. Share your UI/UX design improvements or suggest additional features for learning purposes. Follow the guidelines in CONTRIBUTING.md.
-
-License
-This project is open-source and available under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-Special thanks to the contributors and inspirations for this learning project.
+Feel free to contribute to this project by forking and submitting a pull request. Share your UI/UX design improvements or suggest additional features for learning purposes.
 
 Happy designing!
